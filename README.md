@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+<h1 align="center">銀行業務(仮)のサイトです 👋</h1>
+<p>
+  <a href="https://www.npmjs.com/package/banking" target="_blank">
+    <img alt="Version" src="https://img.shields.io/npm/v/banking.svg">
+  </a>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## プレビュー
 
-## Available Scripts
+<img width="1383" alt="bankig" src="https://user-images.githubusercontent.com/56642953/109283467-2d798980-7862-11eb-8c4b-46b82f73e950.png">
 
-In the project directory, you can run:
+<img width="1334" alt="banking1" src="https://user-images.githubusercontent.com/56642953/109283965-b395d000-7862-11eb-92b6-af7af21b946a.png">
 
-### `yarn start`
+<img width="1355" alt="banking2" src="https://user-images.githubusercontent.com/56642953/109284186-ecce4000-7862-11eb-952a-77761b3eb278.png">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<img width="1364" alt="banking4" src="https://user-images.githubusercontent.com/56642953/109284295-0b343b80-7863-11eb-8477-34970e4a4768.png">
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<img width="1340" alt="banking5" src="https://user-images.githubusercontent.com/56642953/109284396-269f4680-7863-11eb-8bd6-5d65344e1b18.png">
 
-### `yarn test`
+## ライブラリ
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```sh
+react
+```
 
-### `yarn build`
+## 使用している技術
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```sh
+hooks(useState,useEffect)を用いてレスポンシブデザインの対応、navbarのリンクをクリックしたらページの遷移を行うことができます。
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Author
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+👤 **akira**
 
-### `yarn eject`
+- Github: [@akira0430](https://github.com/akira0430)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 銀行業務のブログサイトです
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```
+銀行業務ホームページを想定して作りました。
+```
